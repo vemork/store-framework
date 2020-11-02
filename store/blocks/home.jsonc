@@ -35,7 +35,7 @@
       "callToActionMode": "button",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "#",
-      "textAlignment": "center"
+      "textAlignment": "left"
     }
   }
 }
