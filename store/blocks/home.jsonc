@@ -1,6 +1,7 @@
 {
   "store.home": {
     "blocks": [
+      "shelf",
       "flex-layout.row",
       "rich-text",
       "info-card#button-right",
