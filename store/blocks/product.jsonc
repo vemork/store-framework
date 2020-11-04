@@ -15,12 +15,12 @@
       "flex-layout.col#right"
     ]
   },
-  "flex-layout.col#left":{
+  "flex-layout.col#leftp":{
     "children":[
       "stack-layout#brand"
     ]
   },
-  "flex-layout.col#right":{
+  "flex-layout.col#rightp":{
     "children":[
       "product-name",
       "product-identifier.product",
