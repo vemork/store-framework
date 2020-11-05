@@ -48,5 +48,10 @@
     "props":{
       "orientation": "vertical"
     }
+  },
+  "vtex.menu@2.x:submenu#electronics":{
+    "children":[
+      "vtex.menu@2.x:menu#electronics"
+    ]
   }
 }
