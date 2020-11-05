@@ -9,10 +9,8 @@
         "orientation": "horizontal"
       }
   },
-  "vtex.menu@2.x:submenu#major":{
-    "children":[
-      "flex-layout.row#major"
-    ]
+  "vtex.menu@2.x:submenu#major": {
+    "children":["flex-layout.row#major"]
   },
   // "vtex.menu@2.x:menu#major": {
   //   "children": [
@@ -24,8 +22,8 @@
   //     "orientation": "vertical"
   //   }
   // },
-  "vtex.menu@2.x:submenu#small":{
-    "children":[
+  "vtex.menu@2.x:submenu#small": {
+    "children": [
       "vtex.menu@2.x:menu#small"
     ]
   },
@@ -35,7 +33,7 @@
       "menu-item#toasters",
       "menu-item#coffee"
     ],
-    "props":{
+    "props": {
       "orientation": "vertical"
     }
   },
@@ -49,8 +47,8 @@
       "orientation": "vertical"
     }
   },
-  "vtex.menu@2.x:submenu#electronics":{
-    "children":[
+  "vtex.menu@2.x:submenu#electronics": {
+    "children": [
       "vtex.menu@2.x:menu#electronics"
     ]
   }
